@@ -125,8 +125,8 @@ p{
 .col-4 p{
 	font-size:14px;
 }
-.rating.fa{
-	color:#ff523b;
+.rating .fa{
+	color: #ff523b;
 }
 .col-4:hover{
 	transform: translateY(-5px);
